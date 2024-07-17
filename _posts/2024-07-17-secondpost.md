@@ -54,3 +54,4 @@ comments: true
     - IDE: Intellij Ultimate
     - 버전 관리: Git (GitHub)
     - 배포: AWS EC2
+
