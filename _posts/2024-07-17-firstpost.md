@@ -8,6 +8,7 @@ tags:
     - post
     - jekyll
     - blog
+comments: true
 ---
 
 # 첫 포스팅
