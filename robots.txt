@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://colin1783.github.io/sitemap.xml
+
